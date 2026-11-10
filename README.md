@@ -19,6 +19,13 @@
   </a>
 </p>
 
+<p align="center">
+  <strong>Stack</strong><br>
+  <a href="https://vanderlei.alamino.dev.br/">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,angular,vite,nodejs,jest,cypress,graphql,docker,git,githubactions,vercel&perline=9" alt="Stack: HTML, CSS, Sass, Tailwind, JavaScript, TypeScript, React, Next.js, Angular, Vite, Node.js, Jest, Cypress, GraphQL, Docker, Git, GitHub Actions, Vercel" />
+  </a>
+</p>
+
 ---
 
 <!-- ============================================================ -->
@@ -330,6 +337,7 @@ Repositórios públicos de estudo, separados dos projetos de cliente.
 
 | Lab | Repositório |
 | :--- | :--- |
+| Javascript | [AlaminoCS/Javascript](https://github.com/AlaminoCS/Javascript) |
 | DevQuest | [AlaminoCS/DevQuest](https://github.com/AlaminoCS/DevQuest) |
 | clone-tabnews | [AlaminoCS/clone-tabnews](https://github.com/AlaminoCS/clone-tabnews) |
 | cargo-components | [AlaminoCS/cargo-components](https://github.com/AlaminoCS/cargo-components) |
@@ -338,6 +346,8 @@ Repositórios públicos de estudo, separados dos projetos de cliente.
 ---
 
 ### 📊 Estatísticas do Perfil
+
+> Os gráficos abaixo mostram só as **linguagens detectadas nos repos públicos** (ex.: JavaScript / TypeScript). A stack completa — React, Next.js, testes, DevOps etc. — está no topo do perfil e em **Competências Técnicas**.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaminoCS&theme=tokyonight" alt="Detalhes do perfil" />
@@ -396,7 +406,64 @@ Senior Front-End Developer with 15+ years building scalable, high-performance in
 
 ### 🛠️ Technical Skills
 
-React, Next.js, TypeScript, JavaScript, Angular, HTML5, CSS3, Sass, Tailwind CSS, Styled Components, Node.js, PHP, Python, Jest, Playwright, Cypress, GraphQL, REST, Apollo, ECharts, Git, GitHub Actions, Docker, Vercel, Scrum, and technical mentoring.
+#### Frontend
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img align="center" alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white" />
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="center" alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img align="center" alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+
+<br>
+
+#### Backend
+<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br>
+
+#### Quality & Testing
+<img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img align="center" alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img align="center" alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img align="center" alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+<img align="center" alt="Husky" src="https://img.shields.io/badge/Husky-333333?style=for-the-badge" />
+<img align="center" alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" />
+<img align="center" alt="Atomic Design" src="https://img.shields.io/badge/Atomic_Design-8E44AD?style=for-the-badge" />
+<img align="center" alt="TDD" src="https://img.shields.io/badge/TDD-1ABC9C?style=for-the-badge" />
+
+<br>
+
+#### Data & Integrations
+<img align="center" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img align="center" alt="REST" src="https://img.shields.io/badge/REST_APIs-2C3E50?style=for-the-badge" />
+<img align="center" alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
+<img align="center" alt="ECharts" src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" />
+
+<br>
+
+#### Tooling & DevOps
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img align="center" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="center" alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+<img align="center" alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img align="center" alt="CI/CD" src="https://img.shields.io/badge/CI/CD-2C3E50?style=for-the-badge" />
+
+<br>
+
+#### Methods
+<img align="center" alt="Scrum" src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge" />
+<img align="center" alt="Agile" src="https://img.shields.io/badge/Agile-16A085?style=for-the-badge" />
+<img align="center" alt="Kanban" src="https://img.shields.io/badge/Kanban-F39C12?style=for-the-badge" />
+<img align="center" alt="Mentoring" src="https://img.shields.io/badge/Technical_Mentoring-8E44AD?style=for-the-badge" />
 
 ---
 
@@ -473,11 +540,13 @@ Certifications include curso.dev (Full Stack, 2026), Cod3r (Next.js, React, Type
 | Landing | Mari Mansano Tarot — Sales | [vendas.marimansanotarot.com.br](https://vendas.marimansanotarot.com.br/) |
 | Series | 33 JS Concepts | [33jsconcepts.com](https://33jsconcepts.com/) |
 
-Study repos: [DevQuest](https://github.com/AlaminoCS/DevQuest), [clone-tabnews](https://github.com/AlaminoCS/clone-tabnews), [cargo-components](https://github.com/AlaminoCS/cargo-components), [tinyfronts](https://github.com/AlaminoCS/tinyfronts).
+Study repos: [Javascript](https://github.com/AlaminoCS/Javascript), [DevQuest](https://github.com/AlaminoCS/DevQuest), [clone-tabnews](https://github.com/AlaminoCS/clone-tabnews), [cargo-components](https://github.com/AlaminoCS/cargo-components), [tinyfronts](https://github.com/AlaminoCS/tinyfronts).
 
 ---
 
 ### 📊 Profile Stats
+
+> The charts below only show **languages detected in public repos**. The full stack is at the top of the profile and under **Technical Skills**.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlaminoCS&theme=tokyonight" alt="Profile details" />
